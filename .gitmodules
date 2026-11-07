@@ -1,0 +1,3 @@
+[submodule "lib/rlimgui"]
+	path = lib/rlimgui
+	url = git@github.com:raylib-extras/rlimgui

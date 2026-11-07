@@ -1,0 +1,4 @@
+imgui.ini
+obj/
+bin/*_exe
+bin/saves
